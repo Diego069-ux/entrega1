@@ -1,0 +1,19 @@
+body {
+    background-color: #d4636a
+
+}
+#cnt_superior {
+    background-color: aquamarine;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 3px;
+    border-radius: 15px;
+}
+.form-etiqueta {
+    color: blueviolet;
+    font-weight: bold;
+}
